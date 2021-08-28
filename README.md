@@ -2,6 +2,8 @@
 Simple webiste project for showing how to use git and github
 This repository is for showing how Git and GitHub work
 ## Introduction
+This is different 1 Simple webiste project for showing how to use git and github
+
 ## Purpose
 ## Deployment
 ## How to contribute
