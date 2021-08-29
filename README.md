@@ -10,3 +10,6 @@ The main purpose is asdfasdf
 This is to deploy
 ## How to contribute
 Sample website with plenty of files for demos
+
+### Copyright
+copyright 2021
